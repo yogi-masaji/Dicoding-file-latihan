@@ -1,0 +1,6 @@
+variabel pada JavaScript memiliki sifat tipe data yang dinamis. Artinya, kita dapat memberikan tipe data yang berubah-ubah pada satu variabel yang sama. Contohnya:
+
+let x; // x merupakan undefined
+x = 1; // sekarang x merupakan number
+x = true; // sekarang x merupakan boolean
+x = "yogi" // sekarang x merupakan string
